@@ -1,6 +1,9 @@
 Non-Linear Video Player
+
 2012 Ben Moren / Piotr Szyhalski
+
 [http://benmoren.com](http://benmoren.com)  
+
 [http://www.themaw.org](http://www.themaw.org)
 
 Non-Linear Player is a MAX/MSP based Application to mix and display videos in a non-linear order. It has random, non-repeating random, linear, and keyboard control playback methods. It supports separate background audio file playback, and has a video out feature for saving compositions. 
