@@ -8,7 +8,7 @@ Non-Linear Video Player
 
 --------------------------------
 
-Non-Linear Player is a MAX/MSP based Application to mix and display videos in a non-linear order. It has random, non-repeating random, linear, and keyboard control playback methods. It supports separate background audio file playback, and has a video out feature for saving compositions. 
+Non-Linear Player is a MAX/MSP based Application to mix and playback videos in a non-linear order. It has random, non-repeating random, linear, and keyboard control playback methods. It supports separate background audio file playback, and has a video out feature for saving compositions. 
 
 It was created for intro media arts classes and is based on Piotr Szyhalski's original Non-Linear Player for MCAD media classes [http://laborcamp.mcad.edu](http://laborcamp.mcad.edu)
 
@@ -19,7 +19,7 @@ Feature List:
 * random, non-repeating random, linear, and keyboard control playback methods
 * playback of a distinct background audio file
 * video out saving
-*
+* Fullscreen (esc key)
 
 
 ![Screenshot](/screenshot.png)
