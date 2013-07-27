@@ -1,8 +1,10 @@
 Non-Linear Video Player
 ---------------------------------
 2012 Ben Moren / Piotr Szyhalski
-[http://benmoren.com](http://benmoren.com)  
-[http://www.themaw.org](http://www.themaw.org)
+
+* [http://benmoren.com](http://benmoren.com)
+* [http://laborcamp.mcad.edu](http://laborcamp.mcad.edu)
+* [http://www.themaw.org](http://www.themaw.org)
 
 --------------------------------
 
